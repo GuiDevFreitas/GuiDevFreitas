@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Guilherme Freitas | Desenvolvedor Front-end
 
-<!--
-**GuiDevFreitas/GuiDevFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – UNINTER  
+💻 Desenvolvedor Front-end focado em criar interfaces modernas, responsivas e funcionais  
+🚀 Em evolução contínua para me tornar Full Stack 
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- HTML
+- CSS
+- JavaScript ( em desenvolvimento )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+- Landing Pages responsivas
+- Projetos Mobile First
+- Sites institucionais
+- Projetos com JavaScript (em breve)
+
+🎯 Objetivo
+
+Atuar como Desenvolvedor Front-end, aplicando boas práticas de desenvolvimento, e evoluir profissionalmente para Full Stack.
+
+
+## 📫 Contato
+- GitHub: https://github.com/GuiDevFreitas
+- LinkedIn: (em breve)
