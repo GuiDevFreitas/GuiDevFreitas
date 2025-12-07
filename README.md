@@ -2,12 +2,12 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas – UNINTER  
 💻 Desenvolvedor Front-end focado em criar interfaces modernas, responsivas e funcionais  
-🚀 Em evolução contínua para me tornar Full Stack 
+🚀 Em evolução contínua para me tornar um programador Full Stack 
 
 ## 🚀 Tecnologias
 - HTML
 - CSS
-- JavaScript ( em desenvolvimento )
+- JavaScript ( em aprimoramento )
 
 ## 📂 Projetos
 - Landing Pages responsivas
