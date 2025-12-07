@@ -13,7 +13,7 @@
 - Landing Pages responsivas
 - Projetos Mobile First
 - Sites institucionais
-- Projetos com JavaScript (em breve)
+- Projetos com JavaScript
 
 🎯 Objetivo
 
@@ -22,4 +22,7 @@ Atuar como Desenvolvedor Front-end, aplicando boas práticas de desenvolvimento,
 
 ## 📫 Contato
 - GitHub: https://github.com/GuiDevFreitas
-- LinkedIn: (em breve)
+- LinkedIn: www.linkedin.com/in/guidev-freitas
+  
+
+
